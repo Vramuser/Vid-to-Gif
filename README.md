@@ -2,8 +2,7 @@
 <h4 align="center">A basic ffmpeg bat script that turns videos to gifs</h3>
 <h3 align="center">Requires FFmpeg. <a href="https://www.youtube.com/watch?v=WwWITnuWQW4">Installation guide</a></h3>
 <h4>Auto installer for FFmpeg here:</h4>
-<br>
-<h4> <a herf="https://bruh.bar/p/ck03nw9u579dernqw"> <--- Guide </a></h4>
+<h4> https://bruh.bar/p/ck03nw9u579dernqw </h4>
 
 <h1>Showcase:</h1>
 https://i.e-z.host/tkx3vqajaq150gah0i.mp4
