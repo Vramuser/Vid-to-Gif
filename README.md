@@ -15,5 +15,5 @@ https://i.e-z.host/tkx3vqajaq150gah0i.mp4
 <br>
 - Secound. Put the script into the SendTo Folder in windows.
 <br>
-~ HowTo: 1. WIN+R | 2. type in "Shell:SendTo" |3. Drag the script into the SendTo Folder! 
+~ HowTo: 1. WIN+R | 2. type in "Shell:SendTo" | 3. Drag the script into the SendTo Folder! 
 <br>
